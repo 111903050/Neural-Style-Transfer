@@ -10,6 +10,11 @@
 - https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
 
 ## Screenshots
+- Content Image
 ![CLI-Content](https://github.com/111903050/Neural-Style-Transfer/blob/main/Images/turtle.png)
+
+- Style Image
 ![CLI-Style](https://github.com/111903050/Neural-Style-Transfer/blob/main/Images/ocean.png)
+
+- Output Image
 ![CLI-Output](https://github.com/111903050/Neural-Style-Transfer/blob/main/Images/output.png)
