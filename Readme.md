@@ -6,11 +6,10 @@
 ## Implemented on
 - Google Colab
 
-
 ## Resources
 - https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
 
 ## Screenshots
-![CLI-Content]()
-![CLI-Style]()
-![CLI-Output]
+![CLI-Content](https://github.com/111903050/Neural-Style-Transfer/blob/main/Images/turtle.png)
+![CLI-Style](https://github.com/111903050/Neural-Style-Transfer/blob/main/Images/ocean.png)
+![CLI-Output](https://github.com/111903050/Neural-Style-Transfer/blob/main/Images/output.png)
